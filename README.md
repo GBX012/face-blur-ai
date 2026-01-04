@@ -31,7 +31,7 @@ Automatic face detection and blurring tool powered by YOLOv5-Face deep learning 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/face-blur-ai.git
+git clone https://github.com/GBX012/face-blur-ai.git
 cd face-blur-ai
 ```
 
@@ -41,7 +41,7 @@ pip install torch torchvision opencv-python numpy tqdm PyYAML Pillow
 ```
 
 3. Download YOLOv5-Face model:
-- Download `yolov5n-face.pt` from [here](link)
+- Download `yolov5n-face.pt` from [here](https://drive.google.com/file/d/18oenL6tjFkdR1f5IgpYeQfDFqU4w3jEr/view)
 - Place it in the project root directory
 
 4. Download YOLOv5-Face repository files:
@@ -94,8 +94,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Gabriel**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@GBX012](https://github.com/GBX012)
+- Email: gabrieltintar8@gmail.com
 
 ## 🙏 Acknowledgments
 
